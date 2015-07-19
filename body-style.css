@@ -1,0 +1,63 @@
+html{
+	font-family:Ubuntu,Play,Times,Arial;
+	font-size:20px;
+}
+#header-div{
+	position:absolute;
+	width:100%;
+	height:100px;
+	left:0px;
+	top:0px;
+	background-color:#FFD464;
+}
+body{
+	margin:0px;
+	display:block;
+}
+#header_links{
+	text-align:right;
+	position:absolute;
+	bottom:8px;
+	right:8px;
+}
+#left-sidebar-div{
+	position:absolute;
+	width:75px;
+	height:100%;
+	left:0px;
+	top:100px;
+	background-color:#0E5296;
+	border:1px solid black;
+}
+#right-sidebar-div{
+	position:absolute;
+	width:75px;
+	height:100%;
+	right:0px;
+	top:100px;
+	background-color:#0E5296;
+	border:1px solid black;
+}
+#footer-div{
+	position:absolute;
+	width:100%;
+	height:100px;
+	bottom:-108px;
+	border:1px solid black;
+	background-color:#0E5296;
+}
+#body-div{
+	position:absolute;
+	bottom:-7px;
+	top:100px;
+	left:0px;
+	right:0px;
+	background-color:#639BF1;
+	border:1px solid black;
+}
+#inline_UL{
+
+}
+#link_style{
+
+}
